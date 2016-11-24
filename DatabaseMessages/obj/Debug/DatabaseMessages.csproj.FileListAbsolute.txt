@@ -1,0 +1,8 @@
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\bin\Debug\DatabaseMessages.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\bin\Debug\Database1.mdf
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\bin\Debug\Database1_log.ldf
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\bin\Debug\DatabaseMessages.exe
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\bin\Debug\DatabaseMessages.pdb
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\obj\Debug\DatabaseMessages.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\obj\Debug\DatabaseMessages.exe
+c:\users\tina\documents\visual studio 2015\Projects\DatabaseMessages\DatabaseMessages\obj\Debug\DatabaseMessages.pdb
